@@ -11,6 +11,6 @@ int main()
 	cout << "Please enter your age" << endl;
 	cin >> age;
 	//cout << "Your age is " << age << endl;
-	cout << "Age of " << Name << " is " << age << endl;
+	cout << "Age of " << Name << " is " << age << endl; // sttring concatenation
 }
 

@@ -1,0 +1,5 @@
+﻿  CPP_Datatypes_and_Variables.cpp
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(33,9): error C2086: 'int age': redefinition
+  C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(32,9):
+  see declaration of 'age'
+  
