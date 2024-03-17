@@ -13,10 +13,10 @@ bool isGlobal; // This is Gloabal variable because its declared outside of the f
 int main() // Main function is the entry point of program.
 {
     // Variable is the container which is used to store the data.
-    // Variable is the name assigned to the specific memory location which containns the data.
+    // When we declare the variable, compiler assignes name to the specific memory location which containns the data.
     // Variable is always declared with datatype.
     // Type of Variable : 
-    // 1) Local variables : Dclared inside the function, Compiler Will be given more preference to local varibale.
+    // 1) Local variables : Declared inside the function, Compiler Will be given more preference to local varibale.
     //                      age, isadult, NumberF, NumberD, Mycharacter1, Name -- 
     //                      -- these are loacl variables because these are declared inside the function
     // .
@@ -24,13 +24,13 @@ int main() // Main function is the entry point of program.
     // 
     // 3) Variable as function parameter : Declare as the parameters of function
 
-
+    
     // Datatypes :
     // Basic or Native datatypes : No additional library addition is required 
-
+    int standard;
     // int datatype stores the whole number, without decimals.    
     int age; // Default value will be 0 or any other value it can store.  
-    int age = 0; // Default value will be 0 --- Preferred.
+    ///int age = 0; // Default value will be 0 --- Preferred.
     age = 29; // value of age will be changed to 29 from 0.
   
     // boolean data type
@@ -50,7 +50,7 @@ int main() // Main function is the entry point of program.
 
     // Char datatype
     // Stores a single character/letter/number, or ASCII values
-    char Mycharacter1; // stores characters ex. a, s, etc.
+    char Mycharacter1; // stores characters ex. a, s,$ etc.    "$4#as" -- This is string 
 
     // Specific Data Types
 
@@ -60,12 +60,13 @@ int main() // Main function is the entry point of program.
     // Default value will be " ".
     // String values must be surrounded by double quotes " "
     string Name; // Declaration of string variable
+    string Surname;
 }
 
 int Addition()
 {
     // local variables : X, Y, Z, U
-    int X; // Declaration of single variable
+    int X = 0; // Declaration of single variable
     int Y, Z, U; // deeclaration of multiple variable.
     
     return X;
@@ -73,5 +74,7 @@ int Addition()
 
 string GetName()
 {
+    string Address = "";
     // Do something.....
+    return Address;
 }

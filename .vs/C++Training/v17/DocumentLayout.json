@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Shubham\\Git\\CPP_GitRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{338316E2-C0FF-438C-A8FD-4BF3AC1C9F4F}|CPP_Operators\\CPP_Operators.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Operators\\CPP_Operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{338316E2-C0FF-438C-A8FD-4BF3AC1C9F4F}|CPP_Operators\\CPP_Operators.vcxproj|solutionrelative:CPP_Operators\\CPP_Operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5CD23B0A-6BFF-461B-8F5C-FD7A0F6716A0}|C\u002B\u002B_variables\\C\u002B\u002B_Variables.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CD23B0A-6BFF-461B-8F5C-FD7A0F6716A0}|C\u002B\u002B_variables\\C\u002B\u002B_Variables.vcxproj|solutionrelative:C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACBEEAE-5367-45E4-BDCF-6194F8CE7B99}|C\u002B\u002BProject1\\C\u002B\u002BTraining.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002BProject1\\1_CPP_input_output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ACBEEAE-5367-45E4-BDCF-6194F8CE7B99}|C\u002B\u002BProject1\\C\u002B\u002BTraining.vcxproj|solutionrelative:C\u002B\u002BProject1\\1_CPP_input_output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3CB2DBCC-7777-4E4A-9BD5-0D120D0EEF12}|CPP_Conditional_Statements\\CPP_Conditional_Statements.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Conditional_Statements\\CPP_Conditional_Statements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CB2DBCC-7777-4E4A-9BD5-0D120D0EEF12}|CPP_Conditional_Statements\\CPP_Conditional_Statements.vcxproj|solutionrelative:CPP_Conditional_Statements\\CPP_Conditional_Statements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338316E2-C0FF-438C-A8FD-4BF3AC1C9F4F}|CPP_Operators\\CPP_Operators.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Operators\\CPP_Operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{338316E2-C0FF-438C-A8FD-4BF3AC1C9F4F}|CPP_Operators\\CPP_Operators.vcxproj|solutionrelative:CPP_Operators\\CPP_Operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "1_CPP_input_output.cpp",
-              "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002BProject1\\1_CPP_input_output.cpp",
-              "RelativeDocumentMoniker": "C\u002B\u002BProject1\\1_CPP_input_output.cpp",
-              "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002BProject1\\1_CPP_input_output.cpp",
-              "RelativeToolTip": "C\u002B\u002BProject1\\1_CPP_input_output.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "CPP_Datatypes_and_Variables.cpp",
+              "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
+              "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
+              "RelativeToolTip": "C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAhwEgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-14T17:42:41.715Z",
+              "WhenOpened": "2024-03-17T14:07:50.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CPP_Operators.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Operators\\CPP_Operators.cpp",
               "RelativeDocumentMoniker": "CPP_Operators\\CPP_Operators.cpp",
               "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Operators\\CPP_Operators.cpp",
               "RelativeToolTip": "CPP_Operators\\CPP_Operators.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAqAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-14T16:12:18.949Z",
+              "WhenOpened": "2024-03-17T13:15:25.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CPP_Conditional_Statements.cpp",
+              "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Conditional_Statements\\CPP_Conditional_Statements.cpp",
+              "RelativeDocumentMoniker": "CPP_Conditional_Statements\\CPP_Conditional_Statements.cpp",
+              "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Conditional_Statements\\CPP_Conditional_Statements.cpp",
+              "RelativeToolTip": "CPP_Conditional_Statements\\CPP_Conditional_Statements.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T15:08:25.481Z",
               "EditorCaption": ""
             }
           ]

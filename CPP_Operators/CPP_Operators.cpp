@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-using namespace std;
+using namespace std;  // Semicolon in CPP is used to end the statement.
 
 int main()
 {
@@ -10,7 +10,7 @@ int main()
     // Types of operators in C++
  
     // 1. Arithmatic operators 
-    
+    // Variable = Value to be soterd in variable -- 15,497, X+Y = 25 ---  Z = 25
     // Addition + 
     z = x + y; // z = 25
     cout << "Value of z is " << z << endl;

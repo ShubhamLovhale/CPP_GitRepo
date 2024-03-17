@@ -1,5 +1,9 @@
 ﻿  CPP_Datatypes_and_Variables.cpp
-C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(33,9): error C2086: 'int age': redefinition
-  C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(32,9):
-  see declaration of 'age'
-  
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(53,10): warning C4101: 'Mycharacter1': unreferenced local variable
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(48,11): warning C4101: 'NumberF': unreferenced local variable
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(49,12): warning C4101: 'NumberD': unreferenced local variable
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(30,9): warning C4101: 'standard': unreferenced local variable
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(70,12): warning C4101: 'Z': unreferenced local variable
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(70,15): warning C4101: 'U': unreferenced local variable
+C:\Shubham\Git\CPP_GitRepo\C++_variables\CPP_Datatypes_and_Variables.cpp(70,9): warning C4101: 'Y': unreferenced local variable
+  C++_Variables.vcxproj -> C:\Shubham\Git\CPP_GitRepo\x64\Debug\2_CPP_Datatypes_and_Variables.exe
