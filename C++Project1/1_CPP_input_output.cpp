@@ -13,4 +13,3 @@ int main()
 	//cout << "Your age is " << age << endl;
 	cout << "Age of " << Name << " is " << age << endl; // sttring concatenation
 }
-
