@@ -24,6 +24,7 @@
     <ProjectGuid>{4d945cae-a021-404c-a79c-a5dcf825d15d}</ProjectGuid>
     <RootNamespace>CPPPointersandArrays</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6_CPP_Pointers_and_Arrays</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

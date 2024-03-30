@@ -16,13 +16,16 @@ int main() // Main function is the entry point of program.
     // When we declare the variable, compiler assignes name to the specific memory location which containns the data.
     // Variable is always declared with datatype.
     // Type of Variable : 
-    // 1) Local variables : Declared inside the function, Compiler Will be given more preference to local varibale.
-    //                      age, isadult, NumberF, NumberD, Mycharacter1, Name -- 
+    // 1) Local variables : 1) Declared inside the function, Compiler Will be given more preference to local varibale.
+    //                      2) age, isadult, NumberF, NumberD, Mycharacter1, Name -- 
     //                      -- these are loacl variables because these are declared inside the function
+    //                      3) Scope or Life of local variable will be inside the function only.
     // .
-    // 2) Global variable : Declare outside the function
+    // 2) Global variable : 1) Declared outside the function
+    //                      2) Scope or Life of local variable will be throughout the program only. Means any function it can be accessed.
     // 
-    // 3) Variable as function parameter : Declare as the parameters of function
+    // 3) Variable as function parameter : 1) Declared as the parameters of function
+    //                                     2) 
 
     
     // Datatypes :
@@ -38,7 +41,7 @@ int main() // Main function is the entry point of program.
     // true = 1, false = 0.
     bool isAdult; // Variable declaration // Default value will be false; 
     isAdult = true; // Assignemnet 
-
+    isGlobal = false;
     // double datatype
     // double datatype is used to store numbers in decimals
     // it can accomodate data upto 8 bytes.
@@ -68,7 +71,8 @@ int Addition()
     // local variables : X, Y, Z, U
     int X = 0; // Declaration of single variable
     int Y, Z, U; // deeclaration of multiple variable.
-    
+    Surname = "Lovhale"; // Surname is a globale variable
+    isGlobal = true;
     return X;
 }
 

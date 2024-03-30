@@ -24,7 +24,7 @@
     <ProjectGuid>{9009e274-37e3-41c4-b1ee-eed1d45dc48e}</ProjectGuid>
     <RootNamespace>CPPForLoop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>CPP_Array_ForLoop</ProjectName>
+    <ProjectName>5_CPP_Array_ForLoop</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

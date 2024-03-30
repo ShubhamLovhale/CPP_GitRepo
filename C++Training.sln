@@ -11,9 +11,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_CPP_Operators", "CPP_Oper
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_CPP_Conditional_Statements", "CPP_Conditional_Statements\CPP_Conditional_Statements.vcxproj", "{3CB2DBCC-7777-4E4A-9BD5-0D120D0EEF12}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Pointers_and_Arrays", "CPP_Pointers_and_Arrays\CPP_Pointers_and_Arrays.vcxproj", "{4D945CAE-A021-404C-A79C-A5DCF825D15D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_CPP_Pointers_and_Arrays", "CPP_Pointers_and_Arrays\CPP_Pointers_and_Arrays.vcxproj", "{4D945CAE-A021-404C-A79C-A5DCF825D15D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Array_ForLoop", "CPP_ForLoop\CPP_ForLoop.vcxproj", "{9009E274-37E3-41C4-B1EE-EED1D45DC48E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_CPP_Array_ForLoop", "CPP_ForLoop\CPP_ForLoop.vcxproj", "{9009E274-37E3-41C4-B1EE-EED1D45DC48E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Functions", "CPP_Functions\CPP_Functions.vcxproj", "{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,14 @@ Global
 		{9009E274-37E3-41C4-B1EE-EED1D45DC48E}.Release|x64.Build.0 = Release|x64
 		{9009E274-37E3-41C4-B1EE-EED1D45DC48E}.Release|x86.ActiveCfg = Release|Win32
 		{9009E274-37E3-41C4-B1EE-EED1D45DC48E}.Release|x86.Build.0 = Release|Win32
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Debug|x64.ActiveCfg = Debug|x64
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Debug|x64.Build.0 = Debug|x64
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Debug|x86.Build.0 = Debug|Win32
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Release|x64.ActiveCfg = Release|x64
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Release|x64.Build.0 = Release|x64
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Release|x86.ActiveCfg = Release|Win32
+		{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
