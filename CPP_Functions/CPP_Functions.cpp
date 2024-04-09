@@ -71,13 +71,13 @@ int Multiplication(int x, int z)
 
 int main()
 {
-	// PrintMyName();
+	// PrintMyName();13
 	// string Name = "Shubham"; //name is local variable
 	// GetandPrintName(Name); // calling the user defined variable
 
 	// variable is used to store data / values.
 	// variable structure :
-	// datatype variablename = value // initalisation
+	// datatype variablename = value // initialisation
 	
 	
 	int u = Addition(25, 30); //u = 55
@@ -85,8 +85,9 @@ int main()
 
 
 	int v = Multiplication(5, 2); // calling the fuction  // v = 10
-
-	GetandPrintName("Aurangabad");
+	
+	int u = 
+	//GetandPrintName("Aurangabad");
 
 
 	return 0;
