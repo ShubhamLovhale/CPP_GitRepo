@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Shubham\\Git\\CPP_GitRepo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3285E13A-52C3-4397-BF63-9427603742C4}|CPP_SwitchStatement\\CPP_SwitchStatement.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_SwitchStatement\\CPP_SwitchStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3285E13A-52C3-4397-BF63-9427603742C4}|CPP_SwitchStatement\\CPP_SwitchStatement.vcxproj|solutionrelative:CPP_SwitchStatement\\CPP_SwitchStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9009E274-37E3-41C4-B1EE-EED1D45DC48E}|CPP_ForLoop\\CPP_ForLoop.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_ForLoop\\CPP_ForLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9009E274-37E3-41C4-B1EE-EED1D45DC48E}|CPP_ForLoop\\CPP_ForLoop.vcxproj|solutionrelative:CPP_ForLoop\\CPP_ForLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}|CPP_Functions\\CPP_Functions.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Functions\\CPP_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}|CPP_Functions\\CPP_Functions.vcxproj|solutionrelative:CPP_Functions\\CPP_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CD23B0A-6BFF-461B-8F5C-FD7A0F6716A0}|C\u002B\u002B_variables\\C\u002B\u002B_Variables.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D945CAE-A021-404C-A79C-A5DCF825D15D}|CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D945CAE-A021-404C-A79C-A5DCF825D15D}|CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.vcxproj|solutionrelative:CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}|CPP_Functions\\CPP_Functions.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Functions\\CPP_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3C701DB1-AE69-43F2-B388-EDE0F8D41A4E}|CPP_Functions\\CPP_Functions.vcxproj|solutionrelative:CPP_Functions\\CPP_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,45 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CPP_SwitchStatement.cpp",
+              "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_SwitchStatement\\CPP_SwitchStatement.cpp",
+              "RelativeDocumentMoniker": "CPP_SwitchStatement\\CPP_SwitchStatement.cpp",
+              "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_SwitchStatement\\CPP_SwitchStatement.cpp",
+              "RelativeToolTip": "CPP_SwitchStatement\\CPP_SwitchStatement.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T12:13:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CPP_ForLoop.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_ForLoop\\CPP_ForLoop.cpp",
               "RelativeDocumentMoniker": "CPP_ForLoop\\CPP_ForLoop.cpp",
               "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_ForLoop\\CPP_ForLoop.cpp",
               "RelativeToolTip": "CPP_ForLoop\\CPP_ForLoop.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-09T14:25:41.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CPP_Datatypes_and_Variables.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
               "RelativeDocumentMoniker": "C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
               "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
               "RelativeToolTip": "C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAANAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T14:16:19.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CPP_Functions.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Functions\\CPP_Functions.cpp",
               "RelativeDocumentMoniker": "CPP_Functions\\CPP_Functions.cpp",
               "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Functions\\CPP_Functions.cpp",
               "RelativeToolTip": "CPP_Functions\\CPP_Functions.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-29T12:54:20.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CPP_Pointers_and_Arrays.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp",
               "RelativeDocumentMoniker": "CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp",
