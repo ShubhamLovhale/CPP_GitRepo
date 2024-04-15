@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3285E13A-52C3-4397-BF63-9427603742C4}|CPP_SwitchStatement\\CPP_SwitchStatement.vcxproj|solutionrelative:CPP_SwitchStatement\\CPP_SwitchStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8ACBEEAE-5367-45E4-BDCF-6194F8CE7B99}|C\u002B\u002BProject1\\C\u002B\u002BTraining.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002BProject1\\1_CPP_input_output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ACBEEAE-5367-45E4-BDCF-6194F8CE7B99}|C\u002B\u002BProject1\\C\u002B\u002BTraining.vcxproj|solutionrelative:C\u002B\u002BProject1\\1_CPP_input_output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D945CAE-A021-404C-A79C-A5DCF825D15D}|CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D945CAE-A021-404C-A79C-A5DCF825D15D}|CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.vcxproj|solutionrelative:CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9009E274-37E3-41C4-B1EE-EED1D45DC48E}|CPP_ForLoop\\CPP_ForLoop.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_ForLoop\\CPP_ForLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9009E274-37E3-41C4-B1EE-EED1D45DC48E}|CPP_ForLoop\\CPP_ForLoop.vcxproj|solutionrelative:CPP_ForLoop\\CPP_ForLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CD23B0A-6BFF-461B-8F5C-FD7A0F6716A0}|C\u002B\u002B_variables\\C\u002B\u002B_Variables.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5CD23B0A-6BFF-461B-8F5C-FD7A0F6716A0}|C\u002B\u002B_variables\\C\u002B\u002B_Variables.vcxproj|solutionrelative:C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D945CAE-A021-404C-A79C-A5DCF825D15D}|CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.vcxproj|C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D945CAE-A021-404C-A79C-A5DCF825D15D}|CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.vcxproj|solutionrelative:CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1_CPP_input_output.cpp",
+              "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002BProject1\\1_CPP_input_output.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002BProject1\\1_CPP_input_output.cpp",
+              "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002BProject1\\1_CPP_input_output.cpp",
+              "RelativeToolTip": "C\u002B\u002BProject1\\1_CPP_input_output.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T12:27:05.545Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +57,14 @@
               "RelativeDocumentMoniker": "CPP_SwitchStatement\\CPP_SwitchStatement.cpp",
               "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_SwitchStatement\\CPP_SwitchStatement.cpp",
               "RelativeToolTip": "CPP_SwitchStatement\\CPP_SwitchStatement.cpp",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAAABAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF0AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-14T12:13:42.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CPP_ForLoop.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_ForLoop\\CPP_ForLoop.cpp",
               "RelativeDocumentMoniker": "CPP_ForLoop\\CPP_ForLoop.cpp",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CPP_Datatypes_and_Variables.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
               "RelativeDocumentMoniker": "C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
@@ -68,12 +85,11 @@
               "RelativeToolTip": "C\u002B\u002B_variables\\CPP_Datatypes_and_Variables.cpp",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-30T14:16:19.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T14:16:19.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CPP_Functions.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Functions\\CPP_Functions.cpp",
               "RelativeDocumentMoniker": "CPP_Functions\\CPP_Functions.cpp",
@@ -83,16 +99,37 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-29T12:54:20.241Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6e11d507-4c3f-4b0d-b3f3-2a4dc9b39dd7",
+        "Display": 0,
+        "X": 309,
+        "Y": 134,
+        "Width": 1232,
+        "Height": 592,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CPP_Pointers_and_Arrays.cpp",
               "DocumentMoniker": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp",
               "RelativeDocumentMoniker": "CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp",
               "ToolTip": "C:\\Shubham\\Git\\CPP_GitRepo\\CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp",
               "RelativeToolTip": "CPP_Pointers_and_Arrays\\CPP_Pointers_and_Arrays.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAxAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-29T12:56:16.704Z",
               "EditorCaption": ""

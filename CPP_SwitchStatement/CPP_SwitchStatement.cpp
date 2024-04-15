@@ -1,5 +1,5 @@
 #include<iostream>
-
+#include<string>
 using namespace std;
 
 
@@ -67,25 +67,41 @@ int main()
 	string UserResponse = ""; // THis is string and string is char array.
 	RestartCalculator:    // This is label for goto statement
 	cout << "Starting Calculator" << endl;
+	//labelgetnumbers:
 	cout << "please enter 2 numbers" << endl;
-	
+	//bool isint = true;
 	cin >> x;
 	cin >> y;
 	
-	Calculator(x, y);
+
+	
+	if (isdigit(x) && isdigit(y))
+	{
+		
+		Calculator(x, y);
+		
+	}
+
+	else
+	{
+		cout<<"Invalid input for numbers. Exiting calculators" << endl;
+		
+		return 0;
+		
+	}
+	
 
 	cout << "do you want to use the calculator again ?" << endl;
 	cin >> UserResponse; // yes -- Y
 	//string Converted = ""; // YES
 	
-	//for (int i = 0; i < UserResponse.length(); i++)
-	//{
-	//	char u = UserResponse[i]; // Y
-	//	char 
-	//	Converted[i] = (char)toupper(u);  //Y converting u into uppercase and storing in 'i'th index of converted string
-	//}
+	for (int i = 0; i < UserResponse.length(); i++)
+	{
+		char u = UserResponse[i]; // Y
+		
+		UserResponse[i] = toupper(u);  //Y converting u into uppercase and storing in 'i'th index of converted string
+	}
 	
-	/*transform(s1.begin(), s1.end(), s1.begin(), ::toupper);*/
 	
 	
 	if (UserResponse == "YES")
@@ -103,4 +119,5 @@ int main()
 		cout<<"Invalid Input Enterd by user, closing the calculator, please restart calculator to use again" << endl;
 	}
 
+	return 0;
 }

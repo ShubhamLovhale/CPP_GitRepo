@@ -1,3 +1,7 @@
 ﻿  CPP_Functions.cpp
 C:\Shubham\Git\CPP_GitRepo\CPP_Functions\CPP_Functions.cpp(33,6): warning C4101: 'count': unreferenced local variable
-  CPP_Functions.vcxproj -> C:\Shubham\Git\CPP_GitRepo\x64\Debug\CPP_Functions.exe
+C:\Shubham\Git\CPP_GitRepo\CPP_Functions\CPP_Functions.cpp(89,6): error C2374: 'u': redefinition; multiple initialization
+  C:\Shubham\Git\CPP_GitRepo\CPP_Functions\CPP_Functions.cpp(83,6):
+  see declaration of 'u'
+  
+C:\Shubham\Git\CPP_GitRepo\CPP_Functions\CPP_Functions.cpp(93,2): error C2059: syntax error: 'return'
