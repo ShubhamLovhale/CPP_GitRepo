@@ -1,0 +1,7 @@
+C:\Shubham\Programming\C#\C_Sharp_Programming\bin\Debug\C_Sharp_Programming.exe.config
+C:\Shubham\Programming\C#\C_Sharp_Programming\bin\Debug\C_Sharp_Programming.exe
+C:\Shubham\Programming\C#\C_Sharp_Programming\bin\Debug\C_Sharp_Programming.pdb
+C:\Shubham\Programming\C#\C_Sharp_Programming\obj\Debug\01_C_Sharp_Programming.csproj.AssemblyReference.cache
+C:\Shubham\Programming\C#\C_Sharp_Programming\obj\Debug\01_C_Sharp_Programming.csproj.CoreCompileInputs.cache
+C:\Shubham\Programming\C#\C_Sharp_Programming\obj\Debug\C_Sharp_Programming.exe
+C:\Shubham\Programming\C#\C_Sharp_Programming\obj\Debug\C_Sharp_Programming.pdb
