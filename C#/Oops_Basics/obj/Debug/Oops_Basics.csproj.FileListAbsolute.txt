@@ -1,0 +1,7 @@
+C:\Shubham\Programming\C#\Oops_Basics\bin\Debug\Oops_Basics.exe.config
+C:\Shubham\Programming\C#\Oops_Basics\bin\Debug\Oops_Basics.exe
+C:\Shubham\Programming\C#\Oops_Basics\bin\Debug\Oops_Basics.pdb
+C:\Shubham\Programming\C#\Oops_Basics\obj\Debug\Oops_Basics.csproj.AssemblyReference.cache
+C:\Shubham\Programming\C#\Oops_Basics\obj\Debug\Oops_Basics.csproj.CoreCompileInputs.cache
+C:\Shubham\Programming\C#\Oops_Basics\obj\Debug\Oops_Basics.exe
+C:\Shubham\Programming\C#\Oops_Basics\obj\Debug\Oops_Basics.pdb
